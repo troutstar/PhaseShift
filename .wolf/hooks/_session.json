@@ -1,0 +1,70 @@
+{
+  "session_id": "session-2026-05-29-1423",
+  "started": "2026-05-29T21:23:15.113Z",
+  "files_read": {},
+  "files_written": [
+    {
+      "file": "C:/Users/Troutstar/.claude/plans/i-want-you-to-federated-zebra.md",
+      "action": "create",
+      "tokens": 2216,
+      "at": "2026-05-30T01:24:08.499Z"
+    },
+    {
+      "file": "C:/Users/Troutstar/Desktop/Harness/PhaseShift/CMakeLists.txt",
+      "action": "create",
+      "tokens": 302,
+      "at": "2026-05-30T01:25:55.124Z"
+    },
+    {
+      "file": "C:/Users/Troutstar/Desktop/Harness/PhaseShift/Source/dsp/PhaseVocoder.h",
+      "action": "create",
+      "tokens": 308,
+      "at": "2026-05-30T01:26:05.034Z"
+    },
+    {
+      "file": "C:/Users/Troutstar/Desktop/Harness/PhaseShift/Source/dsp/PhaseVocoder.cpp",
+      "action": "create",
+      "tokens": 1312,
+      "at": "2026-05-30T01:26:32.225Z"
+    },
+    {
+      "file": "C:/Users/Troutstar/Desktop/Harness/PhaseShift/Source/dsp/PhaserChain.h",
+      "action": "create",
+      "tokens": 245,
+      "at": "2026-05-30T01:26:39.681Z"
+    },
+    {
+      "file": "C:/Users/Troutstar/Desktop/Harness/PhaseShift/Source/dsp/PhaserChain.cpp",
+      "action": "create",
+      "tokens": 649,
+      "at": "2026-05-30T01:26:53.503Z"
+    },
+    {
+      "file": "C:/Users/Troutstar/Desktop/Harness/PhaseShift/Source/dsp/PhaseRandomizer.h",
+      "action": "create",
+      "tokens": 254,
+      "at": "2026-05-30T01:26:59.960Z"
+    },
+    {
+      "file": "C:/Users/Troutstar/Desktop/Harness/PhaseShift/Source/dsp/PhaseRandomizer.cpp",
+      "action": "create",
+      "tokens": 867,
+      "at": "2026-05-30T01:27:15.620Z"
+    }
+  ],
+  "edit_counts": {
+    "../../.claude/plans/i-want-you-to-federated-zebra.md": 1,
+    "PhaseShift/CMakeLists.txt": 1,
+    "PhaseShift/Source/dsp/PhaseVocoder.h": 1,
+    "PhaseShift/Source/dsp/PhaseVocoder.cpp": 1,
+    "PhaseShift/Source/dsp/PhaserChain.h": 1,
+    "PhaseShift/Source/dsp/PhaserChain.cpp": 1,
+    "PhaseShift/Source/dsp/PhaseRandomizer.h": 1,
+    "PhaseShift/Source/dsp/PhaseRandomizer.cpp": 1
+  },
+  "anatomy_hits": 0,
+  "anatomy_misses": 0,
+  "repeated_reads_warned": 0,
+  "cerebrum_warnings": 0,
+  "stop_count": 12
+}

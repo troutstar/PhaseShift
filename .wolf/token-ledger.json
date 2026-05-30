@@ -1,0 +1,365 @@
+{
+  "version": 1,
+  "created_at": "2026-05-29T21:23:02.653Z",
+  "lifetime": {
+    "total_tokens_estimated": 37413,
+    "total_reads": 0,
+    "total_writes": 43,
+    "total_sessions": 1,
+    "anatomy_hits": 0,
+    "anatomy_misses": 0,
+    "repeated_reads_blocked": 0,
+    "estimated_savings_vs_bare_cli": 0
+  },
+  "sessions": [
+    {
+      "id": "session-2026-05-29-1423",
+      "started": "2026-05-29T21:23:15.113Z",
+      "ended": "2026-05-30T01:24:36.118Z",
+      "reads": [],
+      "writes": [
+        {
+          "file": "C:/Users/Troutstar/.claude/plans/i-want-you-to-federated-zebra.md",
+          "tokens_estimated": 2216,
+          "action": "create"
+        }
+      ],
+      "totals": {
+        "input_tokens_estimated": 0,
+        "output_tokens_estimated": 2216,
+        "reads_count": 0,
+        "writes_count": 1,
+        "repeated_reads_blocked": 0,
+        "anatomy_lookups": 0
+      }
+    },
+    {
+      "id": "session-2026-05-29-1423",
+      "started": "2026-05-29T21:23:15.113Z",
+      "ended": "2026-05-30T01:24:39.140Z",
+      "reads": [],
+      "writes": [
+        {
+          "file": "C:/Users/Troutstar/.claude/plans/i-want-you-to-federated-zebra.md",
+          "tokens_estimated": 2216,
+          "action": "create"
+        }
+      ],
+      "totals": {
+        "input_tokens_estimated": 0,
+        "output_tokens_estimated": 2216,
+        "reads_count": 0,
+        "writes_count": 1,
+        "repeated_reads_blocked": 0,
+        "anatomy_lookups": 0
+      }
+    },
+    {
+      "id": "session-2026-05-29-1423",
+      "started": "2026-05-29T21:23:15.113Z",
+      "ended": "2026-05-30T01:25:25.926Z",
+      "reads": [],
+      "writes": [
+        {
+          "file": "C:/Users/Troutstar/.claude/plans/i-want-you-to-federated-zebra.md",
+          "tokens_estimated": 2216,
+          "action": "create"
+        }
+      ],
+      "totals": {
+        "input_tokens_estimated": 0,
+        "output_tokens_estimated": 2216,
+        "reads_count": 0,
+        "writes_count": 1,
+        "repeated_reads_blocked": 0,
+        "anatomy_lookups": 0
+      }
+    },
+    {
+      "id": "session-2026-05-29-1423",
+      "started": "2026-05-29T21:23:15.113Z",
+      "ended": "2026-05-30T01:27:21.776Z",
+      "reads": [],
+      "writes": [
+        {
+          "file": "C:/Users/Troutstar/.claude/plans/i-want-you-to-federated-zebra.md",
+          "tokens_estimated": 2216,
+          "action": "create"
+        },
+        {
+          "file": "C:/Users/Troutstar/Desktop/Harness/PhaseShift/CMakeLists.txt",
+          "tokens_estimated": 302,
+          "action": "create"
+        },
+        {
+          "file": "C:/Users/Troutstar/Desktop/Harness/PhaseShift/Source/dsp/PhaseVocoder.h",
+          "tokens_estimated": 308,
+          "action": "create"
+        },
+        {
+          "file": "C:/Users/Troutstar/Desktop/Harness/PhaseShift/Source/dsp/PhaseVocoder.cpp",
+          "tokens_estimated": 1312,
+          "action": "create"
+        },
+        {
+          "file": "C:/Users/Troutstar/Desktop/Harness/PhaseShift/Source/dsp/PhaserChain.h",
+          "tokens_estimated": 245,
+          "action": "create"
+        },
+        {
+          "file": "C:/Users/Troutstar/Desktop/Harness/PhaseShift/Source/dsp/PhaserChain.cpp",
+          "tokens_estimated": 649,
+          "action": "create"
+        },
+        {
+          "file": "C:/Users/Troutstar/Desktop/Harness/PhaseShift/Source/dsp/PhaseRandomizer.h",
+          "tokens_estimated": 254,
+          "action": "create"
+        },
+        {
+          "file": "C:/Users/Troutstar/Desktop/Harness/PhaseShift/Source/dsp/PhaseRandomizer.cpp",
+          "tokens_estimated": 867,
+          "action": "create"
+        }
+      ],
+      "totals": {
+        "input_tokens_estimated": 0,
+        "output_tokens_estimated": 6153,
+        "reads_count": 0,
+        "writes_count": 8,
+        "repeated_reads_blocked": 0,
+        "anatomy_lookups": 0
+      }
+    },
+    {
+      "id": "session-2026-05-29-1423",
+      "started": "2026-05-29T21:23:15.113Z",
+      "ended": "2026-05-30T01:27:55.917Z",
+      "reads": [],
+      "writes": [
+        {
+          "file": "C:/Users/Troutstar/.claude/plans/i-want-you-to-federated-zebra.md",
+          "tokens_estimated": 2216,
+          "action": "create"
+        },
+        {
+          "file": "C:/Users/Troutstar/Desktop/Harness/PhaseShift/CMakeLists.txt",
+          "tokens_estimated": 302,
+          "action": "create"
+        },
+        {
+          "file": "C:/Users/Troutstar/Desktop/Harness/PhaseShift/Source/dsp/PhaseVocoder.h",
+          "tokens_estimated": 308,
+          "action": "create"
+        },
+        {
+          "file": "C:/Users/Troutstar/Desktop/Harness/PhaseShift/Source/dsp/PhaseVocoder.cpp",
+          "tokens_estimated": 1312,
+          "action": "create"
+        },
+        {
+          "file": "C:/Users/Troutstar/Desktop/Harness/PhaseShift/Source/dsp/PhaserChain.h",
+          "tokens_estimated": 245,
+          "action": "create"
+        },
+        {
+          "file": "C:/Users/Troutstar/Desktop/Harness/PhaseShift/Source/dsp/PhaserChain.cpp",
+          "tokens_estimated": 649,
+          "action": "create"
+        },
+        {
+          "file": "C:/Users/Troutstar/Desktop/Harness/PhaseShift/Source/dsp/PhaseRandomizer.h",
+          "tokens_estimated": 254,
+          "action": "create"
+        },
+        {
+          "file": "C:/Users/Troutstar/Desktop/Harness/PhaseShift/Source/dsp/PhaseRandomizer.cpp",
+          "tokens_estimated": 867,
+          "action": "create"
+        }
+      ],
+      "totals": {
+        "input_tokens_estimated": 0,
+        "output_tokens_estimated": 6153,
+        "reads_count": 0,
+        "writes_count": 8,
+        "repeated_reads_blocked": 0,
+        "anatomy_lookups": 0
+      }
+    },
+    {
+      "id": "session-2026-05-29-1423",
+      "started": "2026-05-29T21:23:15.113Z",
+      "ended": "2026-05-30T01:28:12.128Z",
+      "reads": [],
+      "writes": [
+        {
+          "file": "C:/Users/Troutstar/.claude/plans/i-want-you-to-federated-zebra.md",
+          "tokens_estimated": 2216,
+          "action": "create"
+        },
+        {
+          "file": "C:/Users/Troutstar/Desktop/Harness/PhaseShift/CMakeLists.txt",
+          "tokens_estimated": 302,
+          "action": "create"
+        },
+        {
+          "file": "C:/Users/Troutstar/Desktop/Harness/PhaseShift/Source/dsp/PhaseVocoder.h",
+          "tokens_estimated": 308,
+          "action": "create"
+        },
+        {
+          "file": "C:/Users/Troutstar/Desktop/Harness/PhaseShift/Source/dsp/PhaseVocoder.cpp",
+          "tokens_estimated": 1312,
+          "action": "create"
+        },
+        {
+          "file": "C:/Users/Troutstar/Desktop/Harness/PhaseShift/Source/dsp/PhaserChain.h",
+          "tokens_estimated": 245,
+          "action": "create"
+        },
+        {
+          "file": "C:/Users/Troutstar/Desktop/Harness/PhaseShift/Source/dsp/PhaserChain.cpp",
+          "tokens_estimated": 649,
+          "action": "create"
+        },
+        {
+          "file": "C:/Users/Troutstar/Desktop/Harness/PhaseShift/Source/dsp/PhaseRandomizer.h",
+          "tokens_estimated": 254,
+          "action": "create"
+        },
+        {
+          "file": "C:/Users/Troutstar/Desktop/Harness/PhaseShift/Source/dsp/PhaseRandomizer.cpp",
+          "tokens_estimated": 867,
+          "action": "create"
+        }
+      ],
+      "totals": {
+        "input_tokens_estimated": 0,
+        "output_tokens_estimated": 6153,
+        "reads_count": 0,
+        "writes_count": 8,
+        "repeated_reads_blocked": 0,
+        "anatomy_lookups": 0
+      }
+    },
+    {
+      "id": "session-2026-05-29-1423",
+      "started": "2026-05-29T21:23:15.113Z",
+      "ended": "2026-05-30T01:28:29.545Z",
+      "reads": [],
+      "writes": [
+        {
+          "file": "C:/Users/Troutstar/.claude/plans/i-want-you-to-federated-zebra.md",
+          "tokens_estimated": 2216,
+          "action": "create"
+        },
+        {
+          "file": "C:/Users/Troutstar/Desktop/Harness/PhaseShift/CMakeLists.txt",
+          "tokens_estimated": 302,
+          "action": "create"
+        },
+        {
+          "file": "C:/Users/Troutstar/Desktop/Harness/PhaseShift/Source/dsp/PhaseVocoder.h",
+          "tokens_estimated": 308,
+          "action": "create"
+        },
+        {
+          "file": "C:/Users/Troutstar/Desktop/Harness/PhaseShift/Source/dsp/PhaseVocoder.cpp",
+          "tokens_estimated": 1312,
+          "action": "create"
+        },
+        {
+          "file": "C:/Users/Troutstar/Desktop/Harness/PhaseShift/Source/dsp/PhaserChain.h",
+          "tokens_estimated": 245,
+          "action": "create"
+        },
+        {
+          "file": "C:/Users/Troutstar/Desktop/Harness/PhaseShift/Source/dsp/PhaserChain.cpp",
+          "tokens_estimated": 649,
+          "action": "create"
+        },
+        {
+          "file": "C:/Users/Troutstar/Desktop/Harness/PhaseShift/Source/dsp/PhaseRandomizer.h",
+          "tokens_estimated": 254,
+          "action": "create"
+        },
+        {
+          "file": "C:/Users/Troutstar/Desktop/Harness/PhaseShift/Source/dsp/PhaseRandomizer.cpp",
+          "tokens_estimated": 867,
+          "action": "create"
+        }
+      ],
+      "totals": {
+        "input_tokens_estimated": 0,
+        "output_tokens_estimated": 6153,
+        "reads_count": 0,
+        "writes_count": 8,
+        "repeated_reads_blocked": 0,
+        "anatomy_lookups": 0
+      }
+    },
+    {
+      "id": "session-2026-05-29-1423",
+      "started": "2026-05-29T21:23:15.113Z",
+      "ended": "2026-05-30T01:29:08.095Z",
+      "reads": [],
+      "writes": [
+        {
+          "file": "C:/Users/Troutstar/.claude/plans/i-want-you-to-federated-zebra.md",
+          "tokens_estimated": 2216,
+          "action": "create"
+        },
+        {
+          "file": "C:/Users/Troutstar/Desktop/Harness/PhaseShift/CMakeLists.txt",
+          "tokens_estimated": 302,
+          "action": "create"
+        },
+        {
+          "file": "C:/Users/Troutstar/Desktop/Harness/PhaseShift/Source/dsp/PhaseVocoder.h",
+          "tokens_estimated": 308,
+          "action": "create"
+        },
+        {
+          "file": "C:/Users/Troutstar/Desktop/Harness/PhaseShift/Source/dsp/PhaseVocoder.cpp",
+          "tokens_estimated": 1312,
+          "action": "create"
+        },
+        {
+          "file": "C:/Users/Troutstar/Desktop/Harness/PhaseShift/Source/dsp/PhaserChain.h",
+          "tokens_estimated": 245,
+          "action": "create"
+        },
+        {
+          "file": "C:/Users/Troutstar/Desktop/Harness/PhaseShift/Source/dsp/PhaserChain.cpp",
+          "tokens_estimated": 649,
+          "action": "create"
+        },
+        {
+          "file": "C:/Users/Troutstar/Desktop/Harness/PhaseShift/Source/dsp/PhaseRandomizer.h",
+          "tokens_estimated": 254,
+          "action": "create"
+        },
+        {
+          "file": "C:/Users/Troutstar/Desktop/Harness/PhaseShift/Source/dsp/PhaseRandomizer.cpp",
+          "tokens_estimated": 867,
+          "action": "create"
+        }
+      ],
+      "totals": {
+        "input_tokens_estimated": 0,
+        "output_tokens_estimated": 6153,
+        "reads_count": 0,
+        "writes_count": 8,
+        "repeated_reads_blocked": 0,
+        "anatomy_lookups": 0
+      }
+    }
+  ],
+  "daemon_usage": [],
+  "waste_flags": [],
+  "optimization_report": {
+    "last_generated": null,
+    "patterns": []
+  }
+}
